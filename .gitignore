@@ -1,3 +1,7 @@
-input/*
+input/REMMdata/*
+input/REMMdata_v1/*
+input/residential_classes.gdb/*
+input/residential_classes_v1.gdb/*
+ArcGISPro/ResidentialCapacity/To Mikala/*
 intermediate/*
 forWebApp/*
